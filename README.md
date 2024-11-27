@@ -1,11 +1,16 @@
-# Company-Wise Technical iOS Interview Questions
+# 🚀 Company-Wise iOS Technical Interview Questions  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shobhakar-tiwari/">Prepared By: Shobhakar Tiwari</a>
+</p>
+
 - 🎓 Welcome, I’m Shobhakar Tiwari working in the USA 🇺🇸 and currently in the Central Standard Time Zone (CST).  I enjoy writing blogs on Medium, contributing to the iOS dev community, and sharing iOS interview questions to support junior and senior iOS developers alike.
   
 - [If you preparing for iOS Interview feel free to connect for mentorship.](https://www.linkedin.com/in/shobhakar-tiwari/)
 
 - A comprehensive collection of real-world technical interview questions and scenarios from leading technology companies. This repository helps developers prepare for coding rounds, system design interviews, and technical assessments.
 
-## **Walmart Interview Question**
+## **Walmart Mock Interview Question**
 - [Walmart Interview Question](#walmart-interview-question)
   - [Problem Statement](#problem-statement)
   - [Technical Requirements](#technical-requirements)

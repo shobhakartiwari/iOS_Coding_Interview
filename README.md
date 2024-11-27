@@ -1,4 +1,4 @@
-# Company-Wise Technical Interview Questions
+# Company-Wise Technical iOS Interview Questions
 - 🎓 Welcome, I’m Shobhakar Tiwari working in the USA 🇺🇸 and currently in the Central Standard Time Zone (CST).  I enjoy writing blogs on Medium, contributing to the iOS dev community, and sharing iOS interview questions to support junior and senior iOS developers alike.
   
 - [If you preparing for iOS Interview feel free to connect for mentorship.](https://www.linkedin.com/in/shobhakar-tiwari/)
